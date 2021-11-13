@@ -9,7 +9,7 @@ const config = {
   title: 'DC Kirrberg e.V.',
   tagline: 'Der erste eigetragene Verein für den Dartsport in Kirrberg!',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  baseUrl: '/website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
