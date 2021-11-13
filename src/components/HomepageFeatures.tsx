@@ -17,7 +17,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Förderung des Dartsports',
-    image: '/img/darts.png',
+    image: 'img/darts.png',
     description: (
       <>
         Dart für Jung und Alt. Wir haben regelmäßige Trainingszeiten und organisieren Turniere mit tollen gewinnen!
@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'DC Kirrberg e.V.',
-    image: '/img/open-book.png',
+    image: 'img/open-book.png',
     description: (
       <>
         Nach der Gründungsversammlung vom 15.11.2021 wurde der DC Kirrberg als gemeinnüziger Verein eigetragen. 
@@ -35,7 +35,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Mach jetz mit!',
-    image: '/img/wave.png',
+    image: 'img/wave.png',
     description: (
       <>
         Lade die hier das Mitgliederformular herunter und schick es per Mail - oder komm einfach im Vereinsheim vorbei!

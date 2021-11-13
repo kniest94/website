@@ -12,7 +12,7 @@ function HomepageHeader() {
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
         <div className={styles.buttons}>
-          <img src="/img/logo.svg" />
+          <img src="img/logo.svg" />
         </div>
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
