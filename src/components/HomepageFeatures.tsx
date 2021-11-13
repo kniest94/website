@@ -16,32 +16,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
-    image: '/img/undraw_docusaurus_mountain.svg',
+    title: 'Förderung des Dartsports',
+    image: '/img/darts.png',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Dart für Jung und Alt. Wir haben regelmäßige Trainingszeiten und organisieren Turniere mit tollen gewinnen!
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    image: '/img/undraw_docusaurus_tree.svg',
+    title: 'DC Kirrberg e.V.',
+    image: '/img/open-book.png',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Nach der Gründungsversammlung vom 15.11.2021 wurde der DC Kirrberg als gemeinnüziger Verein eigetragen. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    image: '/img/undraw_docusaurus_react.svg',
+    title: 'Mach jetz mit!',
+    image: '/img/wave.png',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Lade die hier das Mitgliederformular herunter und schick es per Mail - oder komm einfach im Vereinsheim vorbei!
       </>
     ),
   },
