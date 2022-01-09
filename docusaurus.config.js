@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'DC Kirrberg e.V.',
-  tagline: 'Der erste eigetragene Verein für den Dartsport in Kirrberg!',
+  tagline: 'Herzlich Willkommen auf der Website des Dartsportverein DC Kirrberg e.V.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/website/',
   onBrokenLinks: 'throw',
@@ -49,6 +49,9 @@ const config = {
       navbar: {
         title: 'DC Kirrberg',
         items: [
+          {to: '/team', label: 'Über uns', position: 'left'},
+          {to: '/spenden', label: 'Spenden', position: 'left'},
+          {to: '/sponsoring', label: 'Sponsor', position: 'left'},
           {to: '/blog', label: 'News', position: 'left'},
         ],
       },
@@ -65,15 +68,15 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Social Media',
             items: [
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Instagram',
+                href: 'https://instagram.com/dckirrberg',
               },
               {
                 label: 'Facebook',
-                href: 'https://facebook.com/docusaurus',
+                href: 'https://facebook.com/dckirrberg',
               },
             ],
           },
@@ -87,7 +90,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} DC Kirrberg e.V.`,
+        copyright: `E-Mail: <a href="mailto:vorstand@dcirrberg.de">vorstand@dcirrberg.de</a> - © ${new Date().getFullYear()} DC Kirrberg e.V.`,
       },
       prism: {
         theme: lightCodeTheme,

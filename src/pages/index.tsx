@@ -6,16 +6,27 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 
+import SimplleMap from '../components/google_map.component'
+
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
         <div className={styles.buttons}>
-          <img src="img/logo.svg" />
+          <img src="/img/logo.svg" />
         </div>
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+          <a
+            className="button button--secondary button--lg"
+            target="_blank"
+            href="/dateien/Anmeldeforumlar.pdf">
+            Zum Anmeldeforumlar
+          </a>
+        </div>
       </div>
     </header>
   );
@@ -30,7 +41,9 @@ export default function Home(): JSX.Element {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        {/* <SimplleMap /> */}
       </main>
+
     </Layout>
   );
 }

@@ -31,3 +31,24 @@ $ GIT_USER=<Your GitHub username> USE_SSH=true yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+
+### TODO
+
+Mitglied im Landesportverband für das Saarland (LSVS).
+
+- Neue Seiten
+    - Spendenseite
+        - Kontodaten
+        - Paypal
+        - Info für Spendenbeleg
+    - Sponsoring
+        - Link zu formlular https://sponsoring.dckirrberg.de/
+    - ÜBER UNS
+        - Intro
+        - Vorstand (Team)
+    - Downloads
+        - Alle Formulare
+        - Satzung
+        - Ordnungen
+- Anmeldeformular (PDF)
