@@ -43,8 +43,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       colorMode: {
-        defaultMode: 'light',
-        disableSwitch: true,
+        defaultMode: 'dark',
+        disableSwitch: false,
       },
       navbar: {
         title: 'DC Kirrberg',
@@ -95,7 +95,7 @@ const config = {
             ],
           },
         ],
-        copyright: `E-Mail: <a href="mailto:vorstand@dcirrberg.de">vorstand@dcirrberg.de</a> - © ${new Date().getFullYear()} DC Kirrberg e.V.`,
+        copyright: `E-Mail: <a href="mailto:vorstand@dckirrberg.de">vorstand@dckirrberg.de</a> - © ${new Date().getFullYear()} DC Kirrberg e.V.`,
       },
       prism: {
         theme: lightCodeTheme,

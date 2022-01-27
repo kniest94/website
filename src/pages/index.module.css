@@ -21,3 +21,11 @@
   align-items: center;
   justify-content: center;
 }
+
+.logo_wrapper {
+  background-color: white;
+  border-radius: 100%;
+  padding: 4px;
+}
+.logo {
+}
