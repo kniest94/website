@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "@theme/Layout";
-import styles from './index.module.css';
+import styles from "./index.module.css";
 
 export default function Team() {
   return (
@@ -21,14 +21,25 @@ export default function Team() {
               zeigen Ihnen die Möglichkeiten auf, wie Sie uns unterstützen und
               gleichzeitig davon profitieren können.
             </p>
-            <div className={styles.buttons}>
-          <a
-            className="button button--secondary button--lg"
-            target="_blank"
-            href="/dateien/Sponsorenkonzept_DCK.pdf">
-            Zum Sponsoring-Konzept
-          </a>
-        </div>
+            <a
+              className="button button--secondary button--lg"
+              target="_blank"
+              href="/dateien/Sponsorenkonzept_DCK.pdf"
+            >
+              Zum Sponsoring-Konzept
+            </a>
+            <br />
+            <p>
+              Überzeugt? Dann gehts hier direkt weiter zum Formular, vielen
+              Dank!
+            </p>
+            <a
+              className="button button--secondary "
+              target="_blank"
+              href="http://sponsoring.dckirrberg.de/"
+            >
+              Zum Sponsorenformular
+            </a>
           </div>
         </div>
       </div>

@@ -23,7 +23,7 @@ function HomepageHeader() {
           <a
             className="button button--secondary button--lg"
             target="_blank"
-            href="/dateien/Anmeldeforumlar.pdf">
+            href="http://online-mitgliedsantrag.dckirrberg.de/">
             Zum Anmeldeforumlar
           </a>
         </div>
