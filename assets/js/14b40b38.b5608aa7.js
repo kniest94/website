@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdckirrberg=self.webpackChunkdckirrberg||[]).push([[430],{3525:function(g){g.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/grundung","name":"Gr\xfcndung","count":1,"permalink":"/blog/tags/grundung"}')}}]);

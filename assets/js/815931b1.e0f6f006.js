@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdckirrberg=self.webpackChunkdckirrberg||[]).push([[42],{7443:function(e){e.exports=JSON.parse('{"allTagsPath":"/website/blog/tags","slug":"/website/blog/tags/versammlung","name":"Versammlung","count":1,"permalink":"/website/blog/tags/versammlung"}')}}]);

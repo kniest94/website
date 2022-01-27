@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>DC Kirrberg e.V. Blog</title>
-        <link>https://your-docusaurus-test-site.com/website/blog</link>
+        <link>https://dckirrberg.de/blog</link>
         <description>DC Kirrberg e.V. Blog</description>
         <lastBuildDate>Mon, 15 Nov 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Willkommen!]]></title>
-            <link>https://your-docusaurus-test-site.com/website/blog/welcome</link>
+            <link>https://dckirrberg.de/blog/welcome</link>
             <guid>welcome</guid>
             <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Herzlich Willkommen auf der Webseite des Dart Club in Kirrberg - DC Kirrberg!]]></description>

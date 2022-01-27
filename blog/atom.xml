@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/website/blog</id>
+    <id>https://dckirrberg.de/blog</id>
     <title>DC Kirrberg e.V. Blog</title>
     <updated>2021-11-15T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/website/blog"/>
+    <link rel="alternate" href="https://dckirrberg.de/blog"/>
     <subtitle>DC Kirrberg e.V. Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/website/img/favicon.ico</icon>
+    <icon>https://dckirrberg.de/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Willkommen!]]></title>
         <id>welcome</id>
-        <link href="https://your-docusaurus-test-site.com/website/blog/welcome"/>
+        <link href="https://dckirrberg.de/blog/welcome"/>
         <updated>2021-11-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Herzlich Willkommen auf der Webseite des Dart Club in Kirrberg - DC Kirrberg!]]></summary>
         <content type="html"><![CDATA[<p>Herzlich Willkommen auf der Webseite des Dart Club in Kirrberg - DC Kirrberg!</p><p>Die Gründungsversammlung ist am 15.11.2021 in den Räumen des Sportverein Kirrbergs.</p><p><img src="./vorstand.jpg" alt="Der Vorstand"/></p><blockquote><p>Der Vorstand - v.l.n.r. Nicola Kniest (Schriftführer), Maurice Didion (stellv. Schriftführer), Pascal Kittel (1. Beisitzer, Pressesprecher), Phillip Kasper (Kassenwart), Markus Didion (1. Vorsitzender), André Didion (2. Vorsitzender), Patrick Bentz (1. Sportdirektor), Tobias Mallmann (2. Beisitzer, Sponsoring), Thorsten Halter (2. Sportdirektor)</p></blockquote>]]></content>
