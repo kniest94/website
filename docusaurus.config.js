@@ -53,6 +53,7 @@ const config = {
           {to: '/spenden', label: 'Spenden', position: 'left'},
           {to: '/sponsoring', label: 'Sponsor', position: 'left'},
           {to: '/blog', label: 'News', position: 'left'},
+          {to: '/downloads', label: 'Downloads', position: 'left'},
         ],
       },
       footer: {
@@ -64,6 +65,10 @@ const config = {
               {
                 label: 'News',
                 to: '/blog',
+              },
+              {
+                label: 'Downloads',
+                to: '/downloads',
               },
             ],
           },
