@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'DC Kirrberg e.V.',
   tagline: 'Herzlich Willkommen auf der Website des Dartsportverein DC Kirrberg e.V.',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/website/',
+  url: 'https://dckirrberg.de',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
