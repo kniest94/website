@@ -28,11 +28,6 @@ export default function Team() {
             >
               Zum Sponsoring-Konzept
             </a>
-            <br />
-            <p>
-              Überzeugt? Dann gehts hier direkt weiter zum Formular, vielen
-              Dank!
-            </p>
             <a
               className="button button--secondary "
               target="_blank"
