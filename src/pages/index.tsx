@@ -40,7 +40,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Herzlich Willkommen auf der Webseite des Dart Club in Kirrberg - DC Kirrberg!">
+      description="Herzlich Willkommen auf der Webseite des Dart Club in Kirrberg - DC Kirrberg">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
